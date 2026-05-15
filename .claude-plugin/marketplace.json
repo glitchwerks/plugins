@@ -1,10 +1,25 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "glitchwerks",
-  "description": "Claude Code plugins published by @glitchwerks. Currently bootstrapping — see README for upcoming additions.",
+  "description": "Claude Code plugins published by @glitchwerks.",
   "owner": {
     "name": "Christopher Beaulieu",
     "email": "cmb_dev@outlook.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "claude-wayfinder",
+      "source": {
+        "source": "github",
+        "repo": "glitchwerks/claude-wayfinder",
+        "sha": "84856d8bf3615dd890634e6817360aae83cfb693"
+      },
+      "description": "A typed, auditable dispatch matcher for Claude Code — post-cognitive routing with a deterministic-first scoring kernel.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Christopher Beaulieu",
+        "email": "cmb_dev@outlook.com"
+      }
+    }
+  ]
 }
