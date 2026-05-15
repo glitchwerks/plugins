@@ -20,6 +20,20 @@
         "name": "Christopher Beaulieu",
         "email": "cmb_dev@outlook.com"
       }
+    },
+    {
+      "name": "claude-prospector",
+      "source": {
+        "source": "github",
+        "repo": "glitchwerks/claude-prospector",
+        "sha": "c5911cc136767f8423260a98df27572f5856a1fa"
+      },
+      "description": "Claude Code token usage analyzer with optimization recommendations. Surfaces what's eating your budget across the 5h / 7d / Sonnet-7d billing windows, with per-model and nested per-agent attribution and skill adoption tracking. Ships both an interactive dashboard and a conversational analysis skill.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Christopher Beaulieu",
+        "email": "cmb_dev@outlook.com"
+      }
     }
   ]
 }
