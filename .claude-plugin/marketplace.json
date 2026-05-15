@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "glitchwerks",
+  "description": "Claude Code plugins published by @glitchwerks. Currently bootstrapping — see README for upcoming additions.",
+  "owner": {
+    "name": "Christopher Beaulieu",
+    "email": "cmb_dev@outlook.com"
+  },
+  "plugins": []
+}
