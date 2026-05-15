@@ -20,7 +20,7 @@ claude plugin install <plugin-name>@glitchwerks
 
 | Plugin | Source | Description |
 | --- | --- | --- |
-| `claude-wayfinder` | [glitchwerks/claude-wayfinder](https://github.com/glitchwerks/claude-wayfinder) | A typed, auditable dispatch matcher for Claude Code — post-cognitive routing with a deterministic-first scoring kernel. |
+| `claude-wayfinder` | [glitchwerks/claude-wayfinder](https://github.com/glitchwerks/claude-wayfinder) | Helps Claude make deterministic, auditable choices about which agent and skills to use for a given task — replacing prose-scanning agent/skill selection with a typed scoring kernel. |
 
 ## Upcoming
 
