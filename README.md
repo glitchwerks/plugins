@@ -11,7 +11,7 @@ Claude Code plugins published by [@glitchwerks](https://github.com/glitchwerks).
 Register this marketplace once:
 
 ```bash
-claude plugin marketplace add github:glitchwerks/plugins
+claude plugin marketplace add glitchwerks/plugins
 ```
 
 Then install any plugin from it by name:
